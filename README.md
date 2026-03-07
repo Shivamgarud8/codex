@@ -1,4 +1,4 @@
-# Smart ATS Resume Generator (MVP)
+# Smart ATS Resume Generator (MVP).
 
 FastAPI backend for a JD-to-resume engine that:
 - analyzes Job Descriptions,
